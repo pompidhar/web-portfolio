@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+    
+
+
+h1{
+    font-size: 50px;
+    text-align: justify;
+
+   
+}
+
+h2{
+      font-size: 30px
+    }
+    
+
+
+   
+.lighting{
+
+    color: rgb(223, 43, 139);
+}
+
+    
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+  
+.half-width img{
+    width: 100%;
+    margin-top: 40px;
+
+}
+p{
+    font-size: larger;
+   text-align: justify;
+
+}
+
+.link{
+    text-decoration: none;
+     background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: floralwhite;
+    font-weight: 700;
+
+}
+
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+    
+
+
+
